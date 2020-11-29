@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("js running");
+    // console.log("js running");
     var days = document.querySelector('.days span');
     var hour = document.querySelector('.hour');
     var min = document.querySelector('.min');
