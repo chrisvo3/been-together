@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var min = document.querySelector('.min');
     var second = document.querySelector('.sec');
     
-    var startDate = new Date(2020, 20, 11);
+    var startDate = new Date(2020, 11, 20);
 
     console.log(startDate);
     console.log(days);
